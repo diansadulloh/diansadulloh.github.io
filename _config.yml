@@ -1,0 +1,24 @@
+# Site settings
+title: Dian Sadulloh
+tagline: 
+description: "The Footprint of Life - Catatan perjalanan hidup, tutorial tips dan trik mengelola web server, frontend & backend web developer"
+keywords: "dian sadulloh, blogger demak, how-to geek, belajar backend web developer, frontend web developer, manage web server"
+baseurl: ""
+url: https://diansadulloh.com
+
+# User settings
+email: 
+tel: 
+twitter_username: 
+github_url:  
+linkedin_url: 
+twitter_url: 
+facebook_url:
+# gaid: 
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+
+
+ exclude: [plum-jekyll-0.1.0.gem, plum-jekyll.gemspec, package.json]
