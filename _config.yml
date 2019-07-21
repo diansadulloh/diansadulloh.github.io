@@ -1,24 +1,21 @@
 # Site settings
 title: Dian Sadulloh
-tagline: 
 description: "The Footprint of Life - Catatan perjalanan hidup, tutorial tips dan trik mengelola web server, frontend & backend web developer"
 keywords: "dian sadulloh, blogger demak, how-to geek, belajar backend web developer, frontend web developer, manage web server"
 baseurl: ""
 url: https://diansadulloh.com
+gaid: UA-129359240-3
 
 # User settings
-email: 
-tel: 
-twitter_username: 
-github_url:  
-linkedin_url: 
-twitter_url: 
-facebook_url:
-# gaid: 
+twitter_username: diansadulloh
+github_url: https://github.com/diansadulloh
+linkedin_url: https://id.linkedin.com/in/emozonic
+twitter_url: https://twitter.com/diansadulloh
+facebook_url: https://facebook.com/mr.waktu
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
 
-
- exclude: [plum-jekyll-0.1.0.gem, plum-jekyll.gemspec, package.json]
+ # exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules', 'firebase.json', 'README.MD', 'plum-jekyll-0.1.0.gem', 'plum-jekyll.gemspec']
