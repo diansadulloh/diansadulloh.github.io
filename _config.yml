@@ -4,7 +4,7 @@ description: "The Footprint of Life - Catatan perjalanan hidup, tutorial tips da
 keywords: "dian sadulloh, blogger demak, how-to geek, belajar backend web developer, frontend web developer, manage web server"
 baseurl: ""
 url: https://dians.me
-gaid: UA-129359240-3
+# gaid: UA-129359240-3
 
 # User settings
 twitter_username: diansadulloh
