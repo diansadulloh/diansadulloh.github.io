@@ -5,4 +5,4 @@ User-agent: Googlebot-News
 Allow: /
 
 
-Sitemap: https://diansadulloh.com/sitemap.xml
+Sitemap: https://dians.me/sitemap.xml

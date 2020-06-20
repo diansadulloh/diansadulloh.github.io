@@ -17,9 +17,6 @@ facebook_url: https://facebook.com/mr.waktu
 markdown: kramdown
 permalink: /:year/:month/:title/
 
-# Build folder
-destination: docs/
-
-# exclude my node related stuff
+ # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', 'firebase.json', 'README.MD', 'plum-jekyll-0.1.0.gem', 'plum-jekyll.gemspec', 'now.json']
 theme: jekyll-theme-cayman
